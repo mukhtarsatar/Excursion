@@ -22,7 +22,7 @@ h1 .third {
 .cta {
   color: aquamarine;
   font-size: 16px;
-  align-content: center;
+  text-align: center;
 }
 p{
   text-align: center;
